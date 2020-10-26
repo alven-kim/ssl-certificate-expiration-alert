@@ -4,5 +4,4 @@
 # rrd include company
 *.bak
 *.old
-*.txt
 *.log
